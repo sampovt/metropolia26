@@ -9,4 +9,3 @@ print("Koodi #2")
 import random
 numerott = [random.randint(1, 6)for _ in range(4)]
 print(numerott)
-
